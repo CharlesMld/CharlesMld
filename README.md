@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesmld&label=Profile%20views&color=0e75b6&style=flat" alt="charlesmld" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesmld" alt="charlesmld" /></a> </p>
+[comment]: <> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesmld" alt="charlesmld" /></a> </p>
 
 - 🔭 I’m currently working on **university projects**
 
