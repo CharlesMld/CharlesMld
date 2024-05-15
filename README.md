@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate software engineer from France</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
+<img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesmld&label=Profile%20views&color=0e75b6&style=flat" alt="charlesmld" /> </p>
-
-[comment]: <> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesmld" alt="charlesmld" /></a> </p>
 
 - 🔭 I’m currently working on **university projects**
 
