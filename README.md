@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **BDC**
 
-- 👨‍💻 All of my projects are available at [arrivingsoon](arrivingsoon)
+- 👨‍💻 All of my projects are available at [my website](https://charlesmld.github.io/)
 
 - 📝 I regularly write articles on [https://charlovietnam.blogspot.com/](https://charlovietnam.blogspot.com/)
 
